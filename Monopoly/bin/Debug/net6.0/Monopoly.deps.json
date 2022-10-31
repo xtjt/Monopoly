@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Monopoly/1.0.0": {
+        "dependencies": {
+          "MonopolyServices": "1.0.0"
+        },
+        "runtime": {
+          "Monopoly.dll": {}
+        }
+      },
+      "MonopolyCommon/1.0.0": {
+        "runtime": {
+          "MonopolyCommon.dll": {}
+        }
+      },
+      "MonopolyEntities/1.0.0": {
+        "runtime": {
+          "MonopolyEntities.dll": {}
+        }
+      },
+      "MonopolyServices/1.0.0": {
+        "dependencies": {
+          "MonopolyCommon": "1.0.0",
+          "MonopolyEntities": "1.0.0"
+        },
+        "runtime": {
+          "MonopolyServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monopoly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonopolyCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonopolyEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonopolyServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
