@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyEntities\\MonopolyEntities.csproj",
+      "projectUniqueName": "C:\\Software\\开发\\Monopoly\\MonopolyEntities\\MonopolyEntities.csproj",
       "projectName": "MonopolyEntities",
-      "projectPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyEntities\\MonopolyEntities.csproj",
+      "projectPath": "C:\\Software\\开发\\Monopoly\\MonopolyEntities\\MonopolyEntities.csproj",
       "packagesPath": "C:\\Users\\周周\\.nuget\\packages\\",
-      "outputPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyEntities\\obj\\",
+      "outputPath": "C:\\Software\\开发\\Monopoly\\MonopolyEntities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\周周\\AppData\\Roaming\\NuGet\\NuGet.Config",

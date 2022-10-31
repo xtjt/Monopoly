@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\Monopoly\\Monopoly.csproj",
+      "projectUniqueName": "C:\\Software\\开发\\Monopoly\\Monopoly\\Monopoly.csproj",
       "projectName": "Monopoly",
-      "projectPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\Monopoly\\Monopoly.csproj",
+      "projectPath": "C:\\Software\\开发\\Monopoly\\Monopoly\\Monopoly.csproj",
       "packagesPath": "C:\\Users\\周周\\.nuget\\packages\\",
-      "outputPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\Monopoly\\obj\\",
+      "outputPath": "C:\\Software\\开发\\Monopoly\\Monopoly\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\周周\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,8 +87,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyServices\\MonopolyServices.csproj": {
-              "projectPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyServices\\MonopolyServices.csproj"
+            "C:\\Software\\开发\\Monopoly\\MonopolyServices\\MonopolyServices.csproj": {
+              "projectPath": "C:\\Software\\开发\\Monopoly\\MonopolyServices\\MonopolyServices.csproj"
             }
           }
         }

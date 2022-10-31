@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj": {}
+    "C:\\Software\\开发\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj": {}
   },
   "projects": {
-    "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj": {
+    "C:\\Software\\开发\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj",
+        "projectUniqueName": "C:\\Software\\开发\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj",
         "projectName": "MonopolyCommon",
-        "projectPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj",
+        "projectPath": "C:\\Software\\开发\\Monopoly\\MonopolyCommon\\MonopolyCommon.csproj",
         "packagesPath": "C:\\Users\\周周\\.nuget\\packages\\",
-        "outputPath": "C:\\Software\\Visual Studio\\Monopoly\\Monopoly\\MonopolyCommon\\obj\\",
+        "outputPath": "C:\\Software\\开发\\Monopoly\\MonopolyCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\周周\\AppData\\Roaming\\NuGet\\NuGet.Config",
