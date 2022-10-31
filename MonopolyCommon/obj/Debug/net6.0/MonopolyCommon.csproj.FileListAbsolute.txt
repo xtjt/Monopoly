@@ -22,3 +22,15 @@ C:\Software\Visual Studio\Monopoly\Monopoly\MonopolyCommon\obj\Debug\net6.0\Mono
 C:\Software\Visual Studio\Monopoly\Monopoly\MonopolyCommon\obj\Debug\net6.0\refint\MonopolyCommon.dll
 C:\Software\Visual Studio\Monopoly\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.pdb
 C:\Software\Visual Studio\Monopoly\Monopoly\MonopolyCommon\obj\Debug\net6.0\ref\MonopolyCommon.dll
+C:\Software\开发\Monopoly\MonopolyCommon\bin\Debug\net6.0\MonopolyCommon.deps.json
+C:\Software\开发\Monopoly\MonopolyCommon\bin\Debug\net6.0\MonopolyCommon.dll
+C:\Software\开发\Monopoly\MonopolyCommon\bin\Debug\net6.0\MonopolyCommon.pdb
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.csproj.AssemblyReference.cache
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.AssemblyInfoInputs.cache
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.AssemblyInfo.cs
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.csproj.CoreCompileInputs.cache
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.dll
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\refint\MonopolyCommon.dll
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\MonopolyCommon.pdb
+C:\Software\开发\Monopoly\MonopolyCommon\obj\Debug\net6.0\ref\MonopolyCommon.dll

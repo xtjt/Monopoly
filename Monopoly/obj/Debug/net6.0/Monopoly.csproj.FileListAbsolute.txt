@@ -42,3 +42,25 @@ C:\Software\Visual Studio\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0\refint\Mon
 C:\Software\Visual Studio\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.pdb
 C:\Software\Visual Studio\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.genruntimeconfig.cache
 C:\Software\Visual Studio\Monopoly\Monopoly\Monopoly\obj\Debug\net6.0\ref\Monopoly.dll
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.exe
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.deps.json
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.runtimeconfig.json
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.dll
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\Monopoly.pdb
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\MonopolyCommon.dll
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\MonopolyEntities.dll
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\MonopolyServices.dll
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\MonopolyServices.pdb
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\MonopolyCommon.pdb
+C:\Software\开发\Monopoly\Monopoly\bin\Debug\net6.0\MonopolyEntities.pdb
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.csproj.AssemblyReference.cache
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfoInputs.cache
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfo.cs
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CopyComplete
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.dll
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\refint\Monopoly.dll
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.pdb
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\Monopoly.genruntimeconfig.cache
+C:\Software\开发\Monopoly\Monopoly\obj\Debug\net6.0\ref\Monopoly.dll
